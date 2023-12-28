@@ -1,2 +1,2 @@
 # Coursera-test
-For my Coursera Course work
+A coursera-test repository
